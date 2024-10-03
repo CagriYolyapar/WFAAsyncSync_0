@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFAAsyncSync_0", "WFAAsyncSync_0\WFAAsyncSync_0.csproj", "{E6E66B5B-0FB5-4EA0-89F8-696F5C55707A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6E66B5B-0FB5-4EA0-89F8-696F5C55707A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E66B5B-0FB5-4EA0-89F8-696F5C55707A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E66B5B-0FB5-4EA0-89F8-696F5C55707A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E66B5B-0FB5-4EA0-89F8-696F5C55707A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D45BA906-C9B3-4C2D-8F3C-7D31B454B1E3}
+	EndGlobalSection
+EndGlobal
